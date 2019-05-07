@@ -1,1 +1,28 @@
+.active {
+  background-color: #808080;
+}
+body{
+  color: #00008B
+}
+nav ul {
+  font-size: 2em;
+  background-color: #D3D3D3;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav li{
+  display: inline;
+}
+section {
+  margin: 40px;
+  display: flex;
+}
 
+aside {
+ flex: 1
+}
+
+article {
+ flex: 4
+}
